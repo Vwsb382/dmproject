@@ -46,6 +46,6 @@
   * https://www.youtube.com/watch?v=FKFxM12VhRo
 
 ### Final Project Paper Link:
-  * 
+  * https://github.com/Vwsb382/dmproject/blob/master/15_CatchingARideInTheBigApple_Part4.pdf
 
 #### Tools Used: iPythonNotebook, WEKA, SQL, Python Scripts, Numpy, Pandas, Scikit-learn, Dateutil parser, Scipy, Matplotlib, JSON, SPSS, Orange
