@@ -43,7 +43,7 @@
    A study of pickup and dropoff locations, as well as trip distances and fare amounts can provide information to taxi drivers to find neighborhoods with greatest demand to reduce down time.  A calculation of the pearson correlation coefficient provided a measurement of the linear relationship between the taxi data set attributes.  The taxi trip distance is strongly correlated to fare amounts, although further analysis on traffic congestion may provide a more accurate picture.  By identifying popular neighborhoods, taxi services can minimize the time needed to find an available passenger.
 
 ### Video Demonstration Link:
-  * 
+  * https://www.youtube.com/watch?v=FKFxM12VhRo
 
 ### Final Project Paper Link:
   * 
